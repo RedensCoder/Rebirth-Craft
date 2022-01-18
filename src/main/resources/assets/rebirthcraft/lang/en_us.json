@@ -1,5 +1,7 @@
 {
   "itemGroup.rebirthcraft_tab": "Rebirth Craft",
   "item.rebirthcraft.platinum_ingot": "Platinum Ingot",
-  "item.rebirthcraft.platinum_nugget": "Platinum Nugget"
+  "item.rebirthcraft.platinum_nugget": "Platinum Nugget",
+  "item.rebirthcraft.platinum_mana_ingot": "Platinum Mana Ingot",
+  "block.rebirthcraft.platinum_ore": "Platinum Ore"
 }

@@ -1,5 +1,6 @@
 package com.pherment.rebirthcraft;
 
+import com.pherment.rebirthcraft.block.ModBlocks;
 import com.pherment.rebirthcraft.item.ModItems;
 import net.minecraft.world.level.block.Block;
 import net.minecraft.world.level.block.Blocks;
@@ -28,6 +29,7 @@ public class RebirthCraft
     public RebirthCraft() {
         IEventBus eventBus = FMLJavaModLoadingContext.get().getModEventBus();
         ModItems.register(eventBus);
+        ModBlocks.register(eventBus);
         MinecraftForge.EVENT_BUS.register(this);
     }
 }

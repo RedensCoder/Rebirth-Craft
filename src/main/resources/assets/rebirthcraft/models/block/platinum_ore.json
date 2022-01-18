@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "rebirthcraft:block/platinum_ore"
+  }
+}
