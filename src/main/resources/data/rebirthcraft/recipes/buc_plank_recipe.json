@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "rebirthcraft:buc_log"
+    }
+  ],
+  "result": {
+    "item": "rebirthcraft:buc_plank",
+    "count": 4
+  }
+}

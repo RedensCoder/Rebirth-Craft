@@ -3,5 +3,8 @@
   "item.rebirthcraft.platinum_ingot": "Platinum Ingot",
   "item.rebirthcraft.platinum_nugget": "Platinum Nugget",
   "item.rebirthcraft.platinum_mana_ingot": "Platinum Mana Ingot",
-  "block.rebirthcraft.platinum_ore": "Platinum Ore"
+  "block.rebirthcraft.platinum_ore": "Platinum Ore",
+  "item.rebirthcraft.buc_stick": "Buc Stick",
+  "block.rebirthcraft.buc_log": "Buc Wood",
+  "block.rebirthcraft.buc_plank": "Buc Plank"
 }

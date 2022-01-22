@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_column",
+  "textures": {
+    "end": "rebirthcraft:block/buc_log_top",
+    "side": "rebirthcraft:block/buc_log"
+  }
+}

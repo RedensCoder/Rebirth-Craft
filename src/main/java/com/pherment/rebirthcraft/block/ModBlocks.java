@@ -19,7 +19,12 @@ public class ModBlocks {
     public static DeferredRegister<Block> BLOCKS =
             DeferredRegister.create(ForgeRegistries.BLOCKS, RebirthCraft.MOD_ID);
 
-    public static final RegistryObject<Block> Platinum_Ore = registerBlock("platinum_ore", () -> new Block(BlockBehaviour.Properties.of(Material.STONE).strength(12f)));
+    public static final RegistryObject<Block> Platinum_Ore = registerBlock("platinum_ore", () ->
+            new Block(BlockBehaviour.Properties.of(Material.STONE).strength(4f).requiresCorrectToolForDrops()));
+    public static final RegistryObject<Block> Buc_Log = registerBlock("buc_log", () ->
+            new Block(BlockBehaviour.Properties.of(Material.WOOD).strength(1f).requiresCorrectToolForDrops()));
+    public static final RegistryObject<Block> Buc_Plank = registerBlock("buc_plank", () ->
+            new Block(BlockBehaviour.Properties.of(Material.WOOD).strength(1f).requiresCorrectToolForDrops()));
 
     private static <T extends Block>RegistryObject<T> registerBlock(String name, Supplier<T> block) {
         RegistryObject<T> toReturn = BLOCKS.register(name, block);
