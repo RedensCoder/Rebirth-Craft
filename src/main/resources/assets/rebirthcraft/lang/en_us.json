@@ -1,0 +1,17 @@
+{
+  "itemGroup.rebirthcraft_tab": "Rebirth Craft",
+
+  "item.rebirthcraft.raw_platinum": "Raw Platinum",
+  "item.rebirthcraft.platinum_ingot": "Platinum Ingot",
+  "item.rebirthcraft.platinum_nugget": "Platinum Nugget",
+  "item.rebirthcraft.platinum_mana_ingot": "Platinum Mana Ingot",
+  "item.rebirthcraft.platinum_headpiece": "Platinum Headpiece",
+  "item.rebirthcraft.buc_stick": "Buc Stick",
+
+  "block.rebirthcraft.buc_log": "Buc Wood",
+  "block.rebirthcraft.buc_plank": "Buc Plank",
+  "block.rebirthcraft.buc_leaves": "Buc Leaves",
+  "block.rebirthcraft.platinum_ore": "Platinum Ore",
+  "block.rebirthcraft.deepslate_platinum_ore": "Deepstale Platinum Ore",
+  "block.rebirthcraft.deadly_rose": "Deadly Rose"
+}

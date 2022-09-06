@@ -1,0 +1,16 @@
+{
+  "itemGroup.rebirthcraft_tab": "RebirthCraft",
+  "item.rebirthcraft.raw_platinum": "Необработанная Платина",
+  "item.rebirthcraft.platinum_ingot": "Платиновый Слиток",
+  "item.rebirthcraft.platinum_nugget": "Платиновый Самородок",
+  "item.rebirthcraft.platinum_mana_ingot": "Платиновый Слиток Маны",
+  "item.rebirthcraft.platinum_headpiece": "Платиновый Набалдажник",
+  "item.rebirthcraft.buc_stick": "Палка Бака",
+
+  "block.rebirthcraft.buc_log": "Дерево Бака",
+  "block.rebirthcraft.buc_plank": "Доски Бака",
+  "block.rebirthcraft.buc_leaves": "Листва Бак",
+  "block.rebirthcraft.deepslate_platinum_ore": "Глубинная Платиновая Руда",
+  "block.rebirthcraft.platinum_ore": "Платиновая Руда",
+  "block.rebirthcraft.deadly_rose": "Deadly Rose"
+}

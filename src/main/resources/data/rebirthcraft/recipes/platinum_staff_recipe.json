@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#",
+    "X",
+    "X"
+  ],
+  "key": {
+    "#": {
+      "item": "rebirthcraft:platinum_mana_ingot"
+    },
+    "key": {
+      "X": {
+        "item": "rebirthcraft:buc_stick"
+      }
+  },
+  "result": {
+    "item": "rebirthcraft:platinum_staff",
+    "count": 1
+  }
+}

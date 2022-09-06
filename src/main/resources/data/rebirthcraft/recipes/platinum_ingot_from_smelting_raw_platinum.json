@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "rebirthcraft:raw_platinum"
+  },
+  "result": "rebirthcraft:platinum_ingot",
+  "experience": 0.7,
+  "cookingtime": 200
+}
